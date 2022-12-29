@@ -8,3 +8,7 @@ This uses [Godot 3](https://godotengine.org/) to implement a 2D Sonic the Hedgeh
 Found a problem with the code? Please use the Issues tab! But see if it hasn't been reported yet to prevent duplicate reports.
 
 Want to discuss the project and ask questions? Please use the Discussions tab, or ask in the official threads on SFGHQ or Sonic Retro.
+
+# Sonic Robo Blast 2D
+SRB2D is a Sonic fangame of [SRB2](https://www.srb2.org/)
+Demo 1 will be after GFZ is finished
